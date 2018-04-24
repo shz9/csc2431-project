@@ -1,0 +1,162 @@
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology	 Term Name 	 Hyper Rank 	 Hyper Raw P-Value 	  Hyper FDR Q-Val  	 Hyper Fold Enrichment 	 Hyper Foreground Region Hits 	 Hyper Total Regions 	 Hyper Region Set Coverage 	 Hyper Foreground Gene Hits 	 Total Genes Annotated
+GO Molecular Function	hydrolase activity, acting on glycosyl bonds	7	0.00003809387	0.02007002750857143	5.02812	10	3600	0.04926108	6	126	
+GO Biological Process	mammary gland alveolus development	8	1.201754e-13	1.56828897e-10	17.79615	14	1424	0.06896552	4	19	
+GO Biological Process	regulation of mammary gland epithelial cell proliferation	9	1.343196e-13	1.5581073600000001e-10	25.05361	12	867	0.0591133	3	15	
+GO Biological Process	negative regulation of angiogenesis	20	3.078086e-10	1.606760892e-7	9.780673	14	2591	0.06896552	3	59	
+GO Biological Process	lung morphogenesis	22	8.157804e-10	3.871248807272727e-7	9.060323	14	2797	0.06896552	4	37	
+GO Biological Process	embryonic skeletal system morphogenesis	23	8.501694e-10	3.859029798260869e-7	5.933806	19	5796	0.09359606	6	88	
+GO Biological Process	embryonic organ morphogenesis	25	1.484839e-9	6.200687664e-7	3.412108	32	16976	0.1576355	15	266	
+GO Biological Process	anterior/posterior pattern specification	26	1.497524e-9	6.01313483076923e-7	4.102083	26	11473	0.1280788	13	195	
+GO Biological Process	regulation of erythrocyte differentiation	31	8.520516e-9	0.000002869489904516129	10.90436	11	1826	0.05418719	3	35	
+GO Biological Process	regulation of vasculature development	32	1.42312e-8	0.000004642929	4.711409	20	7684	0.09852217	8	180	
+GO Biological Process	embryonic skeletal system development	35	2.89484e-8	0.000008634894171428572	4.510086	20	8027	0.09852217	7	117	
+GO Biological Process	regulation of angiogenesis	39	5.426991e-8	0.000014527637446153847	4.82771	18	6749	0.08866995	7	164	
+GO Biological Process	regionalization	40	6.14946e-8	0.0000160500906	2.977176	31	18848	0.1527094	16	300	
+GO Biological Process	positive regulation of myeloid cell differentiation	46	2.190494e-7	0.000049714689913043475	6.986645	12	3109	0.0591133	4	65	
+GO Biological Process	branching morphogenesis of an epithelial tube	48	2.273382e-7	0.000049446058500000004	3.962183	20	9137	0.09852217	8	150	
+GO Biological Process	mammary gland epithelium development	49	3.150828e-7	0.00006713192718367347	5.581878	14	4540	0.06896552	5	61	
+GO Biological Process	morphogenesis of a branching epithelium	50	3.642155e-7	0.0000760481964	3.683747	21	10319	0.1034483	10	174	
+GO Biological Process	morphogenesis of a branching structure	52	6.433705e-7	0.00012916900038461538	3.554904	21	10693	0.1034483	10	182	
+GO Biological Process	chordate embryonic development	54	7.364002e-7	0.00014237070533333333	2.311552	39	30540	0.1921182	21	571	
+GO Biological Process	embryo development ending in birth or egg hatching	56	8.758104e-7	0.00016327608171428571	2.295393	39	30755	0.1921182	21	578	
+GO Biological Process	skeletal system morphogenesis	58	0.000002542242	0.00045760355999999993	3.256175	21	11674	0.1034483	8	191	
+GO Cellular Component	cell cortex part	2	4.212546e-7	0.0002664435345	5.446319	14	4653	0.06896552	7	102	
+GO Cellular Component	cortical cytoskeleton	5	0.00001621127	0.0041014513099999995	6.319282	9	2578	0.04433498	4	59	
+GO Cellular Component	cell cortex	6	0.00002007584	0.004232656266666667	3.302081	17	9319	0.08374384	10	209	
+Mouse Phenotype	increased rib number	1	6.139863e-19	4.8615435234e-15	15.99183	21	2377	0.1034483	6	45	
+Mouse Phenotype	vertebral transformation	2	7.023465e-19	2.7805897935e-15	10.62855	26	4428	0.1280788	10	105	
+Mouse Phenotype	cervical vertebral transformation	3	8.323527e-18	2.1968562261999996e-14	19.3137	18	1687	0.08866995	5	45	
+Mouse Phenotype	cervical vertebral fusion	4	9.246972e-18	1.8304381074e-14	15.36607	20	2356	0.09852217	7	46	
+Mouse Phenotype	abnormal sternebra morphology	5	1.152836e-16	1.8256310896e-13	12.274	21	3097	0.1034483	7	59	
+Mouse Phenotype	asymmetric rib attachment	8	3.072424e-15	3.040931654e-12	13.67277	18	2383	0.08866995	5	46	
+Mouse Phenotype	abnormal rib development	9	3.465165e-15	3.0485751633333335e-12	17.18811	16	1685	0.07881773	8	32	
+Mouse Phenotype	abnormal vertebrae morphology	13	3.317273e-14	2.020474431846154e-11	3.986627	41	18616	0.2019704	22	361	
+Mouse Phenotype	abnormal rib attachment	16	5.008085e-13	2.478376064375e-10	7.935822	21	4790	0.1034483	8	95	
+Mouse Phenotype	abnormal cervical vertebrae morphology	19	1.990793e-12	8.296367881052631e-10	6.51735	23	6388	0.1133005	11	117	
+Mouse Phenotype	abnormal presacral vertebrae morphology	20	3.532671e-12	1.3985844489e-9	4.81725	29	10897	0.1428571	15	207	
+Mouse Phenotype	vertebral fusion	21	9.889824e-12	3.728934591999999e-9	6.359423	22	6262	0.1083744	9	108	
+Mouse Phenotype	thoracic vertebral transformation	23	2.322658e-11	7.996002627826088e-9	11.94801	14	2121	0.06896552	5	54	
+Mouse Phenotype	fused joints	24	3.042529e-11	1.0037810259166665e-8	5.678237	23	7332	0.1133005	10	121	
+Mouse Phenotype	abnormal vertebral column morphology	25	4.295888e-11	1.3605936473599999e-8	2.954606	45	27569	0.2216749	27	562	
+Mouse Phenotype	delayed eyelid opening	27	5.214653e-11	1.5292452760740742e-8	14.92885	12	1455	0.0591133	3	31	
+Mouse Phenotype	asymmetric rib-sternum attachment	28	1.164426e-10	3.292830381428571e-8	13.9062	12	1562	0.0591133	4	37	
+Mouse Phenotype	abnormal rib morphology	31	8.644683e-10	2.2080193546451612e-7	3.926819	28	12907	0.137931	15	249	
+Mouse Phenotype	abnormal rib-sternum attachment	34	1.521853e-9	3.544127074705882e-7	7.793297	15	3484	0.07389163	6	72	
+Mouse Phenotype	lumbar vertebral transformation	35	1.573369e-9	3.559410212e-7	11.02054	12	1971	0.0591133	3	48	
+Human Phenotype	Vacuolated lymphocytes	2	6.089474e-8	0.00018712953602	30.50769	6	356	0.02955665	3	8	
+Human Phenotype	Short humerus	19	0.00003890608	0.012585093035789474	13.60995	5	665	0.02463054	4	15	
+Human Phenotype	Aplasia/Hypoplasia of the humerus	21	0.00004322092	0.012649322586666668	13.30973	5	680	0.02463054	4	16	
+Human Phenotype	Aplasia/Hypoplasia of the ulna	23	0.00009123313	0.024379078999130433	8.445365	6	1286	0.02955665	5	28	
+Human Phenotype	Cardiomegaly	25	0.0001121648	0.027574594431999996	8.129296	6	1336	0.02955665	3	27	
+Human Phenotype	Optic nerve coloboma	26	0.000123986	0.02930838292307692	10.62279	5	852	0.02463054	3	14	
+Disease Ontology	acute myeloid leukemia	1	1.278953e-7	0.0002858459955	3.100095	28	16349	0.137931	12	377	
+Disease Ontology	myeloid leukemia	2	0.000002598742	0.002904094185	2.546839	30	21322	0.1477833	14	503	
+Disease Ontology	chronic kidney failure	3	0.00001990613	0.014830066850000002	8.678673	7	1460	0.03448276	3	42	
+Disease Ontology	cancer of urinary tract	4	0.00003555336	0.0198654399	3.300886	16	8774	0.07881773	10	218	
+Disease Ontology	kidney failure	7	0.000109024	0.03480980571428572	4.042094	11	4926	0.05418719	6	155	
+MSigDB Cancer Neighborhood	Neighborhood of ICAM3	1	0.000002413812	0.001030697724	9.609147	8	1507	0.03940887	3	39	
+MGI Expression: Detected	TS20_C5 vertebral cartilage condensation	1	4.122291e-29	3.8489831067e-25	129.2945	16	224	0.07881773	3	4	
+MGI Expression: Detected	TS20_C6 vertebral cartilage condensation	1	4.122291e-29	3.8489831067e-25	129.2945	16	224	0.07881773	3	4	
+MGI Expression: Detected	TS20_C7 vertebral cartilage condensation	1	4.122291e-29	3.8489831067e-25	129.2945	16	224	0.07881773	3	4	
+MGI Expression: Detected	TS20_T2 vertebral cartilage condensation	1	4.122291e-29	3.8489831067e-25	129.2945	16	224	0.07881773	3	4	
+MGI Expression: Detected	TS20_T1 vertebral cartilage condensation	7	8.806671e-28	1.1746841018142857e-24	107.2666	16	270	0.07881773	3	5	
+MGI Expression: Detected	TS20_lumbar vertebral cartilage condensation	9	4.221464e-22	4.379534374222223e-19	47.63482	16	608	0.07881773	3	10	
+MGI Expression: Detected	TS20_thoracic vertebral cartilage condensation	11	1.787606e-19	1.5173524747272727e-16	27.7476	17	1109	0.08374384	4	18	
+MGI Expression: Detected	TS20_cervical vertebral cartilage condensation	14	2.231224e-19	1.4880670348571426e-16	32.03758	16	904	0.07881773	3	14	
+MGI Expression: Detected	TS20_axial skeleton cervical region	15	1.97313e-18	1.2282076539999998e-15	27.87485	16	1039	0.07881773	3	15	
+MGI Expression: Detected	TS20_trachea mesenchyme	16	4.412412e-18	2.57491817775e-15	26.47346	16	1094	0.07881773	3	12	
+MGI Expression: Detected	TS20_trachea	17	5.627989e-18	3.0910901937058826e-15	17.55607	19	1959	0.09359606	5	28	
+MGI Expression: Detected	TS19_T2 vertebral cartilage condensation	18	8.225171e-18	4.2665789792777775e-15	56.86251	12	382	0.0591133	4	9	
+MGI Expression: Detected	TS19_T3 vertebral cartilage condensation	18	8.225171e-18	4.2665789792777775e-15	56.86251	12	382	0.0591133	4	9	
+MGI Expression: Detected	TS19_T4 vertebral cartilage condensation	20	1.706944e-17	7.968868064000001e-15	53.50118	12	406	0.0591133	4	10	
+MGI Expression: Detected	TS19_T5 vertebral cartilage condensation	20	1.706944e-17	7.968868064000001e-15	53.50118	12	406	0.0591133	4	10	
+MGI Expression: Detected	TS19_T6 vertebral cartilage condensation	20	1.706944e-17	7.968868064000001e-15	53.50118	12	406	0.0591133	4	10	
+MGI Expression: Detected	TS19_T7 vertebral cartilage condensation	20	1.706944e-17	7.968868064000001e-15	53.50118	12	406	0.0591133	4	10	
+MGI Expression: Detected	TS19_T8 vertebral cartilage condensation	20	1.706944e-17	7.968868064000001e-15	53.50118	12	406	0.0591133	4	10	
+MGI Expression: Detected	TS19_T9 vertebral cartilage condensation	20	1.706944e-17	7.968868064000001e-15	53.50118	12	406	0.0591133	4	10	
+MGI Expression: Detected	TS19_T10 vertebral cartilage condensation	20	1.706944e-17	7.968868064000001e-15	53.50118	12	406	0.0591133	4	10	
+MSigDB Perturbation	Genes within amplicon 7p15 identified in a copy number alterations study of 191 breast tumor samples.	1	2.148159e-24	7.226406876e-21	66.27453	16	437	0.07881773	3	11	
+MSigDB Perturbation	Genes that best predicted acute myeloid leukemia (AML) with internal tandem duplications (IDT) in FLT3 [GeneID=2322].	2	7.18947e-18	1.2092688539999999e-14	22.18608	17	1387	0.08374384	3	38	
+MSigDB Perturbation	The 'MLL signature 2': genes up-regulated in pediatric AML (acute myeloid leukemia) with rearranged MLL [GeneID=4297] compared to the AML cases with intact MLL and NPM1 [GeneID=4869].	3	7.807914e-16	8.755274231999999e-13	4.99922	37	13397	0.182266	14	406	
+MSigDB Perturbation	The 'MLL signature 1': genes up-regulated in pediatric AML (acute myeloid leukemia) with rearranged MLL [GeneID=4297] compared to all AML cases with the intact gene.	4	2.651266e-15	2.2297147060000003e-12	5.116646	35	12382	0.1724138	13	369	
+MSigDB Perturbation	Genes up-regulated in HK-2 cells kidney tubular epithelium) under hypoxia and down-regulated on re-oxygenation.	5	2.730058e-14	1.8367830224e-11	12.00966	18	2713	0.08866995	5	47	
+MSigDB Perturbation	Genes up-rgulated in CD34+ [GeneID=947] hematopoetic cells by expression of NUP98-HOXA9 fusion [GeneID=4928;3205] off a retroviral vector at 6h.	6	2.538053e-13	1.4230017153333335e-10	11.59461	17	2654	0.08374384	3	81	
+MSigDB Perturbation	Top 100 probe sets associated with MLL fusions [GeneID=4297] irrespective of the lineage of the pediatric acute leukemia.	7	6.306661e-13	3.0308010862857143e-10	10.94313	17	2812	0.08374384	4	76	
+MSigDB Perturbation	Genes up-regulated in acute myeloid leukemia (AML) with respect to cellular localization of NPM1 [GeneID=4869]: cytoplasmic vs. nucleolar.	8	5.219601e-12	2.1948422205e-9	6.996611	21	5433	0.1034483	6	139	
+MSigDB Perturbation	Genes up-regulated in acute myeloid leukemia (AML) patients with mutated NPM1 [GeneID=4869].	9	4.07612e-11	1.5235630755555556e-8	6.253099	21	6079	0.1034483	5	194	
+MSigDB Perturbation	Genes up-regulated in BJUB cells (B-lymphoma) in response to  rapamycin [PubChem=6610346] treatment.	10	3.745177e-10	1.2598775428e-7	5.238452	22	7602	0.1083744	10	205	
+MSigDB Perturbation	Genes with DNA sequences bound by RARA and RARG [GeneID=5914, 5916] in ES cells.	12	2.081033e-9	5.833829176666667e-7	3.281551	33	18203	0.1625616	17	436	
+MSigDB Perturbation	Genes down-regulated in hepatocellular carcinoma (HCC) induced by diethylnitrosamine (DENA) [PubChem=5921].	13	2.524101e-9	6.531596741538462e-7	10.55979	12	2057	0.0591133	4	74	
+MSigDB Perturbation	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in brain.	14	4.087965e-9	9.822795900000002e-7	3.447197	30	15753	0.1477833	12	262	
+MSigDB Perturbation	Genes up-regulated in HeLa cells (cervical carcinoma) upon knockdown of PHF8 [GeneID=23133] by RNAi.	16	6.134471e-8	0.000012897725277500001	4.108136	21	9253	0.1034483	8	253	
+MSigDB Perturbation	Top 100 probe sets for pediatric acute myeloid leukemia (AML) subtypes with chimeric MLL fusions [GeneID=4297].	17	8.288599e-8	0.000016401674727058823	8.694915	11	2290	0.05418719	3	76	
+MSigDB Perturbation	Genes up-regulated in normal hematopoietic progenitors by RUNX1-RUNX1T1 [GeneID=861;862] fusion.	18	9.496183e-8	0.000017747310895555558	4.934588	17	6236	0.08374384	6	182	
+MSigDB Perturbation	Genes up-regulated in CD34+ [GeneID=947] hematopoetic cells by expression of NUP98-HOXA9 fusion [GeneID=4928;3205] off a retroviral vector at 3 days after transduction.	19	1.064426e-7	0.000018845942442105262	4.894559	17	6287	0.08374384	8	171	
+MSigDB Perturbation	Genes up-regulated in Kasumi-1 cells (acute myeloid leukaemia (AML) with the t(8;21) translocation) after knockdown of the AML1 MTG8 fusion [GeneID=861;862] by RNAi.	20	1.593487e-7	0.00002680245134	11.18895	9	1456	0.04433498	3	49	
+MSigDB Perturbation	Genes up-regulated by TGFB1 [GeneID=7040] in MEF cells (embryonic fibroblast) via TGFB1R [GeneID=7046].	21	1.736573e-7	0.000027818245580952384	5.414127	15	5015	0.07389163	6	121	
+MSigDB Perturbation	Genes whose DNA was methylated both in primary tumors and across a panel of cancer cell lines.	23	0.00000109269	0.0001598177895652174	5.987177	12	3628	0.0591133	3	57	
+MSigDB Predicted Promoter Motifs	Motif RACTNNRTTTNC (no known TF)	1	1.221631e-10	7.51303065e-8	8.503221	16	3406	0.07881773	5	119	
+MSigDB Predicted Promoter Motifs	Motif NNNNNNGGNACRNNNTGTTCTNNNNNN matches PGR: progesterone receptor	2	2.585771e-8	0.000007951245825	5.806329	16	4988	0.07881773	6	141	
+MSigDB Predicted Promoter Motifs	Motif WYAAANNRNNNGCG (no known TF)	3	3.338037e-7	0.0000684297585	7.547898	11	2638	0.05418719	3	61	
+MSigDB Predicted Promoter Motifs	Motif AAAYRNCTG (no known TF)	4	4.700483e-7	0.000072269926125	3.154184	25	14347	0.1231527	14	352	
+MSigDB Predicted Promoter Motifs	Motif AACYNNNNTTCCS (no known TF)	5	5.919007e-7	0.0000728037861	6.353167	12	3419	0.0591133	4	89	
+MSigDB Predicted Promoter Motifs	Motif NNKGAATTAVAVTDN matches POU3F1: POU domain, class 3, transcription factor 1	7	0.000001028754	0.00009038338714285714	3.32521	22	11976	0.1083744	9	246	
+MSigDB Predicted Promoter Motifs	Motif NNRGGTCATWGGGGTSANG matches PPARA: peroxisome proliferative activated receptor, alpha	9	0.000001863971	0.00012737135166666664	5.188887	13	4535	0.06403941	3	124	
+MSigDB Predicted Promoter Motifs	Motif WTGCGTGGGCGK matches EGR1: early growth response 1	10	0.000002144397	0.00013188041549999998	3.56767	19	9640	0.09359606	7	256	
+MSigDB Predicted Promoter Motifs	Motif TAATTA matches VSX1: visual system homeobox 1 homolog, CHX10-like (zebrafish)	11	0.000002657128	0.0001485576109090909	2.164184	40	33456	0.1970443	17	755	
+MSigDB Predicted Promoter Motifs	Motif CTGGAACTMAC matches PAX2: paired box gene 2	12	0.00000505257	0.0002589442125	3.359283	19	10238	0.09359606	7	241	
+MSigDB Predicted Promoter Motifs	Motif TNCATNTCCYR (no known TF)	13	0.000006335221	0.00029970468576923076	5.03278	12	4316	0.0591133	3	126	
+MSigDB Predicted Promoter Motifs	Motif GGGTBAATRACCY matches RXRA: retinoid X receptor, alpha	14	0.000009229408	0.00040543470857142856	4.8453	12	4483	0.0591133	5	106	
+MSigDB Predicted Promoter Motifs	Motif RAAAAWTANNNNNNNNNNNNNNNYCACNCC matches PAX4: paired box gene 4	15	0.00000937439	0.00038434999000000003	3.350356	18	9725	0.08866995	9	209	
+MSigDB Predicted Promoter Motifs	Motif TNATTTGCATW matches POU2F1: POU domain, class 2, transcription factor 1	16	0.00001743163	0.000670028278125	3.196842	18	10192	0.08866995	8	276	
+MSigDB Predicted Promoter Motifs	Motif NNNTNAAGGTCANN matches ESRRA: estrogen-related receptor alpha	17	0.00004531391	0.0016392973323529412	3.233445	16	8957	0.07881773	7	262	
+MSigDB Predicted Promoter Motifs	Motif NNGTAAKTNG matches TLX2: T-cell leukemia homeobox 2	19	0.00006001439	0.0019425710447368422	3.498788	14	7243	0.06896552	6	168	
+MSigDB Predicted Promoter Motifs	Motif RNRTKDNGMAAKNN matches CEBPB: CCAAT/enhancer binding protein (C/EBP), beta	20	0.00006117929	0.0018812631675	3.016576	17	10201	0.08374384	4	261	
+MSigDB Predicted Promoter Motifs	Motif TGATTTRY matches GFI1: growth factor independent 1	21	0.00006117971	0.0017916915071428572	2.796807	19	12297	0.09359606	8	278	
+MSigDB Predicted Promoter Motifs	Motif TMTCGCGANR (no known TF)	22	0.00006309896	0.0017639027454545452	4.729875	10	3827	0.04926108	5	154	
+MSigDB Predicted Promoter Motifs	Motif CAGCTGS matches UBP1: upstream binding protein 1 (LBP-1a)	23	0.00008619329	0.0023047336239130434	3.206406	15	8468	0.07389163	8	212	
+MSigDB miRNA Motifs	Targets of MicroRNA ATCATGA,MIR-433	1	1.92172e-10	4.2470012e-8	7.549581	17	4076	0.08374384	5	106	
+MSigDB miRNA Motifs	Targets of MicroRNA CTCCAAG,MIR-432	2	4.031469e-8	0.000004454773245	8.190603	12	2652	0.0591133	3	78	
+MSigDB miRNA Motifs	Targets of MicroRNA GTGACTT,MIR-224	4	0.00002037668	0.0011258115699999999	3.870147	14	6548	0.06896552	5	155	
+MSigDB miRNA Motifs	Targets of MicroRNA ACTACCT,MIR-196A,MIR-196B	5	0.0000319338	0.00141147396	3.960882	13	5941	0.06403941	3	141	
+MSigDB miRNA Motifs	Targets of MicroRNA GCAAAAA,MIR-129	9	0.0001975782	0.004851642466666667	2.842195	16	10190	0.07881773	11	178	
+MSigDB miRNA Motifs	Targets of MicroRNA GGCACAT,MIR-455	10	0.0005042319	0.01114352499	5.11954	7	2475	0.03448276	4	56	
+MSigDB miRNA Motifs	Targets of MicroRNA TACTTGA,MIR-26A,MIR-26B	11	0.0006448664	0.01295595221818182	2.548348	16	11365	0.07881773	6	289	
+MSigDB miRNA Motifs	Targets of MicroRNA CGCAAAA,MIR-450	12	0.0007566685	0.013935311541666667	9.986886	4	725	0.01970443	3	9	
+InterPro	Homeobox protein, antennapedia type	1	2.076151e-27	1.9561494722e-23	56.38089	19	610	0.09359606	5	12	
+InterPro	Homeobox protein, antennapedia type, conserved site	2	7.039568e-27	3.3163404848e-23	45.19658	20	801	0.09852217	6	20	
+InterPro	Homeodomain, metazoa	3	1.576484e-12	4.951210749333334e-9	6.593733	23	6314	0.1133005	9	92	
+InterPro	Homeobox, conserved site	9	1.460632e-7	0.00015291194115555558	3.474325	24	12504	0.1182266	10	188	
+InterPro	Homeobox domain	13	0.000002908373	0.0021078992619999997	2.92841	24	14835	0.1182266	10	243	
+InterPro	Homeodomain-like	14	0.000004113606	0.0027684568379999996	2.654716	27	18410	0.1330049	12	327	
+InterPro	Glycoside hydrolase, superfamily	29	0.0000885698	0.028776022606896552	8.491586	6	1279	0.02955665	4	53	
+HGNC Gene Families	HOXL	1	8.017414e-19	3.8323238919999997e-16	15.7794	21	2409	0.1034483	7	52	
+MSigDB Oncogenic Signatures	Genes down-regulated in Sez-4 cells (T lymphocyte) that were first starved of IL2 [Gene ID=3558] and then stimulated with IL2 [Gene ID=3558].	1	2.178181e-9	4.07319847e-7	5.277327	20	6860	0.09852217	7	198	
+MSigDB Oncogenic Signatures	Genes down-regulated in MOLM-14 cells (AML) with knockdown of HOXA9 [Gene ID=3205] gene by RNAi vs controls.	2	9.098232e-8	0.00000850684692	4.949669	17	6217	0.08374384	7	193	
+MSigDB Oncogenic Signatures	Genes up-regulated in JNK inhibitor-treated (SP600125[PubChem=8515]) keratinocytes.	3	0.000002100986	0.00013096146066666665	4.424287	15	6137	0.07389163	5	183	
+MSigDB Oncogenic Signatures	Genes down-regulated in primary epithelial breast cancer cell culture over-expressing MYC [Gene ID=4609] gene.	4	0.000006459946	0.0003020024755	4.620381	13	5093	0.06403941	4	153	
+MSigDB Oncogenic Signatures	Genes up-regulated in MOLT4 cells (T-ALL) by DAPT [PubChem=16219261], an inhibitor of NOTCH signaling pathway.	5	0.00003237366	0.0012107748840000001	3.955556	13	5949	0.06403941	9	176	
+MSigDB Oncogenic Signatures	Genes up-regulated in CD34+ hematopoietic progenitor cells after knockdown of RPS14 [Gene ID=6208] by RNAi.	6	0.0000378259	0.0011789072166666667	3.895316	13	6041	0.06403941	5	186	
+MSigDB Oncogenic Signatures	Genes down-regulated in MEF cells (embryonic fibroblasts) with knockout of SNF5 [Gene ID=6598] gene.	7	0.0000819628	0.002189577657142857	3.860224	12	5627	0.0591133	3	158	
+MSigDB Oncogenic Signatures	Genes down-regulated in primary thyrocyte cultures in response to cAMP signaling pathway activation by thyrotropin (TSH).	8	0.001017376	0.023781164	2.760953	13	8523	0.06403941	8	199	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of CD4 [GeneID=920] dendritic cells (DC) versus CD8 DCs.	1	2.113344e-10	4.03648704e-7	5.403353	22	7370	0.1083744	9	198	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of lung tissue from wild type mice subjected to ozone for 0 h versus that from TLR4 [GeneID=7099] deficient mice subjected to ozone for 24 h.	2	4.018668e-10	3.83782794e-7	4.967526	23	8381	0.1133005	10	192	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of naive B cells versus memory IgG IgA B cells.	3	9.075355e-9	0.000005777976016666666	4.842491	20	7476	0.09852217	8	191	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of CD8 dendritic cells (DC) versus CD4- [GeneID=920] CD8- DCs.	4	2.55776e-8	0.000012213304	4.792022	19	7177	0.09359606	6	200	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of Th1 cells versus Th17 cells.	5	1.122301e-7	0.0000428718982	4.594869	18	7091	0.08866995	7	192	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of ex vivo CD4- [GeneID=920] CD8- dendritic cells (DC) versus cultured CD4- [GeneID=920] CD8- DCs.	6	3.392859e-7	0.0001080060115	4.256887	18	7654	0.08866995	6	196	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of dendritic cells (DC) stimulated with Gardiquimod (TLR7 agonist) at 12 h versus those stimulated with Gardiquimod (TLR7 agonist) at 24 h.	7	7.662522e-7	0.000209077386	4.240917	17	7256	0.08374384	5	200	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of macrophages exposed to T. gondii versus macrophages exposed to 5 worms/well B. malayi.	8	9.201508e-7	0.0002196860035	4.183833	17	7355	0.08374384	8	198	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of dendritic cells (DC) exposed to T. gondii versus macrophages exposed to T. gondii.	9	9.973931e-7	0.0002116689801111111	3.945534	18	8258	0.08866995	5	195	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of macrophages versus macrophages exposed to L.donovani.	10	0.000003220709	0.000615155419	3.807956	17	8081	0.08374384	8	197	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of neutrophils versus Th1 cells.	11	0.000003995006	0.0006936783145454544	4.193335	15	6475	0.07389163	4	184	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of fat tissue regulatory T cells versus fat tissue conventional T cells.	12	0.000004010825	0.0006383896458333334	3.950078	16	7332	0.07881773	5	189	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 2 h versus DCs stimulated with LPS (TLR4 agonist) at 8 h.	13	0.000006423746	0.0009437965276923077	4.028464	15	6740	0.07389163	6	184	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of macrophages exposed to T. gondii versus  macrophages exposed to 50 worms/well B. malayi.	14	0.000008039673	0.0010968411021428572	3.952234	15	6870	0.07389163	8	199	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 48 h versus neutrophils stimulated with LPS (TLR4 agonist) at 1 h.	15	0.00001398935	0.0017813105666666666	3.768473	15	7205	0.07389163	8	192	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of dendritic cells (DC) stimulated with CpG DNA (TLR9 agonist) at 6 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 6 h.	16	0.00001618063	0.00193156270625	3.95285	14	6411	0.06896552	6	193	
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of IgD+ peripheral blood B cells versus IgD- naive tonsil B cells.	17	0.00001678956	0.0018863564470588234	3.515229	16	8239	0.07881773	8	195	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of peripheral blood mononuclear cells (PBMC) from patients with type 1 diabetes at the time of the diagnosis versus those at 1 month later.	18	0.00001708257	0.0018126504833333333	3.703703	15	7331	0.07389163	11	195	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of IgD- peripheral blood B cells versus pre-germinal center B cells.	19	0.0000236684	0.0023792970526315786	3.8171	14	6639	0.06896552	7	195	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of lung tissue from wild type mice subjected to ozone for 0 h versus that from wild type mice subjected to ozone for 6 h.	20	0.0000346966	0.0033135253000000004	3.683926	14	6879	0.06896552	7	195	

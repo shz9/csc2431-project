@@ -1,0 +1,236 @@
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position,GSM_ID,Age,Gender,Disease_State
+CHD7-1,,,CHD7 LOF discovery cohort,,9376525031,R05C01,GSM2562699,4.0,female,CHARGE
+CHD7-2,,,CHD7 LOF discovery cohort,,9376525031,R01C02,GSM2562700,6.0,male,CHARGE
+CHD7-3,,,CHD7 LOF discovery cohort,,9376525009,R05C01,GSM2562701,14.0,female,CHARGE
+CHD7-4,,,CHD7 LOF discovery cohort,,9376525033,R02C01,GSM2562702,12.8,male,CHARGE
+CHD7-5,,,CHD7 LOF discovery cohort,,9376525033,R04C02,GSM2562703,18.0,male,CHARGE
+CHD7-6,,,CHD7 LOF discovery cohort,,9376525027,R01C01,GSM2562704,24.0,male,CHARGE
+CHD7-7,,,CHD7 LOF discovery cohort,,9376525027,R03C01,GSM2562705,3.0,male,CHARGE
+CHD7-8,,,CHD7 LOF discovery cohort,,9376525027,R03C02,GSM2562706,6.0,female,CHARGE
+CHD7-9,,,CHD7 LOF discovery cohort,,9376525027,R06C02,GSM2562707,9.0,male,CHARGE
+CHD7-10,,,CHD7 LOF discovery cohort,,9376525052,R01C01,GSM2562708,0.02,female,CHARGE
+CHD7-11,,,CHD7 LOF discovery cohort,,9376525052,R04C01,GSM2562709,12.0,male,CHARGE
+CHD7-12,,,CHD7 LOF discovery cohort,,9376525052,R06C01,GSM2562710,19.0,male,CHARGE
+CHD7-13,,,CHD7 LOF discovery cohort,,9376525052,R03C02,GSM2562711,19.0,male,CHARGE
+CHD7-14,,,CHD7 LOF discovery cohort,,9376525032,R02C02,GSM2562712,4.0,male,CHARGE
+CHD7-15,,,CHD7 LOF discovery cohort,,9344730057,R04C02,GSM2562713,10.8,male,CHARGE
+CHD7-16,,,CHD7 LOF discovery cohort,,9376525031,R02C01,GSM2562714,7.0,male,CHARGE
+CHD7-17,,,CHD7 LOF discovery cohort,,9376525031,R04C02,GSM2562715,15.0,male,CHARGE
+CHD7-18,,,CHD7 LOF discovery cohort,,9376525033,R01C02,GSM2562716,10.0,female,CHARGE
+CHD7-19,,,CHD7 LOF discovery cohort,,9376525032,R03C02,GSM2562717,4.0,female,CHARGE
+CHD7-20,,,CHD7 sequence variant,,9934987063,R02C02,GSM2562718,5.0,female,CHD7 variant
+CHD7-21,,,CHD7 sequence variant,,200325530153,R04C02,GSM2562719,3.0,female,CHD7 variant
+CHD7-22,,,CHD7 sequence variant,,9376525031,R04C01,GSM2562720,0.01,female,CHD7 variant
+CHD7-23,,,CHD7 sequence variant,,9376525033,R05C01,GSM2562721,0.5,male,CHD7 variant
+CHD7-24,,,CHD7 sequence variant,,9376525032,R04C02,GSM2562722,2.0,male,CHD7 variant
+CHD7-25,,,CHD7 sequence variant,,9376525027,R02C02,GSM2562723,13.0,male,CHD7 variant
+CHD7-26,,,CHD7 sequence variant,,9376525009,R03C01,GSM2562724,4.0,male,CHD7 variant
+CHD7-27,,,CHD7 sequence variant,,9376525027,R05C02,GSM2562725,4.0,male,CHD7 variant
+CHD7-28,,,CHD7 sequence variant,,9376525052,R05C02,GSM2562726,13.0,male,CHD7 variant
+CHD7-29,,,CHD7 sequence variant,,10003885124,R06C02,GSM2562727,6.0,male,CHD7 variant
+CHD7-30,,,CHD7 sequence variant,,3999875087,R02C02,GSM2562728,0.08,male,CHD7 variant
+CHD7-31,,,CHD7 sequence variant,,9934987063,R05C02,GSM2562729,5.0,male,CHD7 variant
+CHD7-32,,,CHD7 sequence variant,,200325530153,R03C02,GSM2562730,9.0,male,CHD7 variant
+CHD7-33,,,Validation cohort,,200069280070,R02C01,GSM2562731,50.0,male,CHD7 variant
+CHD7-34,,,Validation cohort,,200069280070,R03C01,GSM2562732,2.0,male,CHD7 variant
+CHD7-35,,,Validation cohort,,200069280070,R05C01,GSM2562733,2.0,female,CHD7 variant
+CHD7-36,,,Validation cohort,,200069280070,R06C01,GSM2562734,24.0,male,CHD7 variant
+CHD7-37,,,Validation cohort,,200069280019,R02C02,GSM2562735,38.0,male,CHD7 variant
+CHD7-38,,,Validation cohort,,200069280070,R01C02,GSM2562736,20.0,male,CHD7 variant
+CHD7-39,,,Validation cohort,,200069280070,R02C02,GSM2562737,19.0,female,CHD7 variant
+CHD7-40,,,Validation cohort,,200069280070,R04C02,GSM2562738,13.0,male,CHD7 variant
+CHD7-41,,,Validation cohort,,200069280070,R06C02,GSM2562739,8.0,male,CHD7 variant
+CHD7-42,,,Validation cohort,,200069280030,R02C01,GSM2562740,3.0,female,CHD7 variant
+CHD7-43,,,Validation cohort,,200069280030,R03C01,GSM2562741,23.0,male,CHD7 variant
+CHD7-44,,,Validation cohort,,200069280030,R05C01,GSM2562742,2.0,female,CHD7 variant
+CHD7-45,,,Validation cohort,,200069280030,R06C01,GSM2562743,35.0,male,CHD7 variant
+CHD7-46,,,Validation cohort,,200069280030,R01C02,GSM2562744,3.0,female,CHD7 variant
+CHD7-47,,,Validation cohort,,200069280030,R02C02,GSM2562745,31.0,female,CHD7 variant
+CHD7-48,,,Validation cohort,,200069280030,R04C02,GSM2562746,49.0,male,CHD7 variant
+CHD7-49,,,Validation cohort,,200053730139,R02C01,GSM2562747,8.0,female,CHD7 variant
+CHD7-50,,,Validation cohort,,200053730139,R05C01,GSM2562748,18.0,male,CHD7 variant
+CHD7-51,,,Validation cohort,,200053730139,R06C01,GSM2562749,2.0,female,CHD7 variant
+CHD7-52,,,Validation cohort,,200053730139,R01C02,GSM2562750,3.0,male,CHD7 variant
+CHD7-53,,,Validation cohort,,200053730139,R04C02,GSM2562751,18.0,female,CHD7 variant
+CHD7-54,,,Validation cohort,,200053730139,R05C02,GSM2562752,32.0,female,CHD7 variant
+CHD7-55,,,Validation cohort,,200069280004,R02C01,GSM2562753,2.0,female,CHD7 variant
+CHD7-56,,,Validation cohort,,200069280004,R03C01,GSM2562754,17.0,male,CHD7 variant
+CHD7-57,,,Validation cohort,,200069280004,R05C01,GSM2562755,2.0,female,CHD7 variant
+CHD7-58,,,Validation cohort,,200069280004,R01C02,GSM2562756,22.0,female,CHD7 variant
+CHD7-59,,,Validation cohort,,200069280004,R03C02,GSM2562757,48.0,male,CHD7 variant
+CHD7-60,,,Validation cohort,,200069280004,R04C02,GSM2562758,16.0,male,CHD7 variant
+CHD7-61,,,Validation cohort,,200069280082,R03C01,GSM2562759,1.0,male,CHD7 variant
+CHD7-62,,,Validation cohort,,200069280082,R05C01,GSM2562760,29.0,female,CHD7 variant
+CHD7-63,,,Validation cohort,,200069280082,R06C01,GSM2562761,1.0,male,CHD7 variant
+CHD7-64,,,Validation cohort,,200069280082,R01C02,GSM2562762,2.0,female,CHD7 variant
+CHD7-65,,,Validation cohort,,200069280082,R02C02,GSM2562763,52.0,male,CHD7 variant
+CHD7-66,,,Validation cohort,,200069280082,R04C02,GSM2562764,10.0,male,CHD7 variant
+CHD7-67,,,Validation cohort,,200069280082,R05C02,GSM2562765,2.0,male,CHD7 variant
+CHD7-68,,,Validation cohort,,200069280013,R02C01,GSM2562766,7.0,female,CHD7 variant
+CHD7-69,,,Validation cohort,,200069280013,R03C01,GSM2562767,4.0,female,CHD7 variant
+CHD7-70,,,Validation cohort,,200069280013,R05C01,GSM2562768,26.0,female,CHD7 variant
+CHD7-71,,,Validation cohort,,200069280013,R06C01,GSM2562769,4.0,female,CHD7 variant
+CHD7-72,,,Validation cohort,,200069280013,R02C02,GSM2562770,46.0,male,CHD7 variant
+KMT2D-1,,,KMT2D LOF discovery cohort,,9934987063,R03C01,GSM2562771,14.0,female,Kabuki
+KMT2D-2,,,KMT2D LOF discovery cohort,,9934987063,R04C02,GSM2562772,1.0,male,Kabuki
+KMT2D-3,,,KMT2D LOF discovery cohort,,9934987063,R01C02,GSM2562773,18.0,male,Kabuki
+KMT2D-4,,,KMT2D LOF discovery cohort,,9934987063,R03C02,GSM2562774,16.0,female,Kabuki
+KMT2D-5,,,KMT2D LOF discovery cohort,,9934987063,R06C02,GSM2562775,15.0,male,Kabuki
+KMT2D-6,,,KMT2D LOF discovery cohort,,9934987132,R03C01,GSM2562776,11.0,male,Kabuki
+KMT2D-7,,,KMT2D LOF discovery cohort,,9934987132,R04C01,GSM2562777,14.0,male,Kabuki
+KMT2D-8,,,KMT2D LOF discovery cohort,,9934987132,R02C02,GSM2562778,20.0,male,Kabuki
+KMT2D-9,,,KMT2D LOF discovery cohort,,9934987132,R03C02,GSM2562779,18.0,male,Kabuki
+KMT2D-10,,,KMT2D LOF discovery cohort,,9934987132,R06C02,GSM2562780,6.0,male,Kabuki
+KMT2D-11,,,KMT2D LOF discovery cohort,,9934987131,R03C01,GSM2562781,16.0,male,Kabuki
+KMT2D-12,,,KMT2D sequence variant,,9934987131,R04C01,GSM2562782,7.0,female,KMT2D variant
+KMT2D-13,,,KMT2D sequence variant,,9934987131,R01C01,GSM2562783,5.0,male,KMT2D variant
+KMT2D-14,,,KMT2D sequence variant,,9934987063,R04C01,GSM2562784,15.0,female,KMT2D variant
+KMT2D-15,,,KMT2D sequence variant,,200325530153,R01C02,GSM2562785,14.0,male,KMT2D variant
+KMT2D-16,,,KMT2D sequence variant,,9934987063,R02C01,GSM2562786,17.0,male,KMT2D variant
+KMT2D-17,,,KMT2D sequence variant,,9934987132,R02C01,GSM2562787,9.0,male,KMT2D variant
+KMT2D-18,,,KMT2D sequence variant,,9934987063,R06C01,GSM2562788,16.0,female,KMT2D variant
+KMT2D-19,,,KMT2D sequence variant,,9934987132,R06C01,GSM2562789,8.0,female,KMT2D variant
+KMT2D-20,,,KMT2D sequence variant,,9934987132,R05C02,GSM2562790,10.0,female,KMT2D variant
+KMT2D-21,,,KMT2D sequence variant,,9934987131,R02C01,GSM2562791,6.0,male,KMT2D variant
+KMT2D-22,,,Validation cohort,,200069280057,R04C02,GSM2562792,5.0,female,KMT2D variant
+KMT2D-23,,,Validation cohort,,200069280019,R02C01,GSM2562793,3.0,male,KMT2D variant
+KMT2D-24,,,Validation cohort,,200069280019,R03C01,GSM2562794,21.0,female,KMT2D variant
+KMT2D-25,,,Validation cohort,,200069280019,R06C01,GSM2562795,34.0,female,KMT2D variant
+KMT2D-26,,,Validation cohort,,200069280070,R03C02,GSM2562796,30.0,female,KMT2D variant
+KMT2D-27,,,Validation cohort,,200069280013,R01C02,GSM2562797,40.0,male,KMT2D variant
+KMT2D-28,,,Validation cohort,,200069280013,R04C02,GSM2562798,9.0,male,KMT2D variant
+KMT2D-29,,,Validation cohort,,200069280013,R05C02,GSM2562799,5.0,male,KMT2D variant
+KMT2D-30,,,Validation cohort,,200069280101,R02C01,GSM2562800,6.0,male,KMT2D variant
+KMT2D-31,,,Validation cohort,,200069280101,R05C01,GSM2562801,47.0,male,KMT2D variant
+KMT2D-32,,,Validation cohort,,200069280101,R06C01,GSM2562802,51.0,male,KMT2D variant
+KMT2D-33,,,Validation cohort,,200069280101,R01C02,GSM2562803,28.0,female,KMT2D variant
+KMT2D-34,,,Validation cohort,,200069280101,R04C02,GSM2562804,25.0,female,KMT2D variant
+KMT2D-35,,,Validation cohort,,200069280101,R05C02,GSM2562805,45.0,female,KMT2D variant
+KMT2D-36,,,Validation cohort,,200069280057,R05C01,GSM2562806,27.0,female,KMT2D variant
+KMT2D-37,,,Validation cohort,,200069280057,R02C02,GSM2562807,15.0,female,KMT2D variant
+KDM6A-1,,,Validation cohort,,200069280101,R03C01,GSM2562808,12.0,female,KDM6A variant
+control-1,,,Control for CHD7 LOF discovery cohort,,9376525031,R01C01,GSM2562809,11.0,female,Control
+control-2,,,Control for CHD7 LOF discovery cohort,,9376525031,R06C01,GSM2562810,4.0,female,Control
+control-3,,,Control for CHD7 LOF discovery cohort,,9376525031,R03C02,GSM2562811,6.0,male,Control
+control-4,,,Control for CHD7 LOF discovery cohort,,9376525031,R05C02,GSM2562812,5.0,male,Control
+control-5,,,Control for CHD7 LOF discovery cohort,,9376525009,R01C01,GSM2562813,16.0,female,Control
+control-6,,,Control for CHD7 LOF discovery cohort,,9376525009,R02C01,GSM2562814,13.0,male,Control
+control-7,,,Control for CHD7 LOF discovery cohort,,9376525009,R04C01,GSM2562815,12.0,male,Control
+control-8,,,Control for CHD7 LOF discovery cohort,,9376525009,R01C02,GSM2562816,6.0,female,Control
+control-9,,,Control for CHD7 LOF discovery cohort,,9376525009,R02C02,GSM2562817,7.0,male,Control
+control-10,,,Control for CHD7 LOF discovery cohort,,9376525009,R03C02,GSM2562818,7.0,male,Control
+control-11,,,Control for CHD7 LOF discovery cohort,,9376525009,R04C02,GSM2562819,9.0,male,Control
+control-12,,,Control for CHD7 LOF discovery cohort,,9376525033,R01C01,GSM2562820,6.0,male,Control
+control-13,,,Control for CHD7 LOF discovery cohort,,9376525033,R04C01,GSM2562821,16.0,male,Control
+control-14,,,Control for CHD7 LOF discovery cohort,,9376525033,R06C01,GSM2562822,11.0,female,Control
+control-15,,,Control for CHD7 LOF discovery cohort,,9376525033,R02C02,GSM2562823,4.0,male,Control
+control-16,,,Control for CHD7 LOF discovery cohort,,9376525033,R05C02,GSM2562824,6.25,female,Control
+control-17,,,Control for CHD7 LOF discovery cohort,,9376525033,R06C02,GSM2562825,5.0,male,Control
+control-18,,,Control for CHD7 LOF discovery cohort,,9376525027,R02C01,GSM2562826,13.0,male,Control
+control-19,,,Control for CHD7 LOF discovery cohort,,9376525027,R04C01,GSM2562827,4.0,female,Control
+control-20,,,Control for CHD7 LOF discovery cohort,,9376525027,R06C01,GSM2562828,5.0,female,Control
+control-21,,,Control for CHD7 LOF discovery cohort,,9376525027,R04C02,GSM2562829,2.0,male,Control
+control-22,,,Control for CHD7 LOF discovery cohort,,9376525052,R02C01,GSM2562830,10.0,female,Control
+control-23,,,Control for CHD7 LOF discovery cohort,,9376525052,R03C01,GSM2562831,8.0,male,Control
+control-24,,,Control for CHD7 LOF discovery cohort,,9376525052,R01C02,GSM2562832,11.0,female,Control
+control-25,,,Control for CHD7 LOF discovery cohort,,9376525052,R02C02,GSM2562833,6.0,male,Control
+control-26,,,Control for CHD7 LOF discovery cohort,,9376525052,R04C02,GSM2562834,14.0,male,Control
+control-27,,,Control for CHD7 LOF discovery cohort,,9376525052,R06C02,GSM2562835,3.0,female,Control
+control-28,,,Control for CHD7 LOF discovery cohort,,9376525032,R02C01,GSM2562836,10.0,female,Control
+control-29,,,Control for CHD7 LOF discovery cohort,,9376525032,R05C02,GSM2562837,7.0,male,Control
+control-30,,,Control for KMT2D LOF discovery cohort,,9934987132,R05C01,GSM2562838,13.0,male,Control
+control-31,,,Control for KMT2D LOF discovery cohort,,9934987132,R01C02,GSM2562839,13.0,male,Control
+control-32,,,Control for KMT2D LOF discovery cohort,,9934987132,R04C02,GSM2562840,11.0,female,Control
+control-33,,,Control for KMT2D LOF discovery cohort,,9934987132,R01C01,GSM2562841,6.0,male,Control
+control-34,,,Control for KMT2D LOF discovery cohort,,9934987063,R01C01,GSM2562842,16.0,female,Control
+control-35,,,Control for KMT2D LOF discovery cohort,,9934987128,R02C01,GSM2562843,5.5,male,Control
+control-36,,,Control for KMT2D LOF discovery cohort,,9934987128,R01C02,GSM2562844,7.0,male,Control
+control-37,,,Control for KMT2D LOF discovery cohort,,9934987128,R03C02,GSM2562845,7.0,male,Control
+control-38,,,Control for KMT2D LOF discovery cohort,,9934987146,R02C01,GSM2562846,8.0,male,Control
+control-39,,,Control for KMT2D LOF discovery cohort,,9934987146,R04C01,GSM2562847,9.5,male,Control
+control-40,,,Control for KMT2D LOF discovery cohort,,9934987146,R01C02,GSM2562848,9.0,male,Control
+control-41,,,Control for validation cohort,,200069280110,R01C01,GSM2562849,16.0,female,Control
+control-42,,,Control for validation cohort,,200069280110,R04C01,GSM2562850,11.0,female,Control
+control-43,,,Control for validation cohort,,200069280110,R03C02,GSM2562851,15.0,female,Control
+control-44,,,Control for validation cohort,,200069280110,R06C02,GSM2562852,12.0,male,Control
+control-45,,,Control for validation cohort,,200069280056,R01C01,GSM2562853,17.0,female,Control
+control-46,,,Control for validation cohort,,200069280056,R04C01,GSM2562854,15.0,male,Control
+control-47,,,Control for validation cohort,,200069280056,R03C02,GSM2562855,12.0,male,Control
+control-48,,,Control for validation cohort,,200069280056,R06C02,GSM2562856,16.0,male,Control
+control-49,,,Control for validation cohort,,200053730212,R01C01,GSM2562857,18.0,female,Control
+control-50,,,Control for validation cohort,,200053730212,R04C01,GSM2562858,18.0,male,Control
+control-51,,,Control for validation cohort,,200053730212,R03C02,GSM2562859,6.0,female,Control
+control-52,,,Control for validation cohort,,200053730212,R06C02,GSM2562860,11.0,female,Control
+control-53,,,Control for validation cohort,,200069280102,R01C01,GSM2562861,18.0,male,Control
+control-54,,,Control for validation cohort,,200069280102,R04C01,GSM2562862,19.0,male,Control
+control-55,,,Control for validation cohort,,200069280102,R03C02,GSM2562863,14.0,female,Control
+control-56,,,Control for validation cohort,,200069280102,R06C02,GSM2562864,16.0,male,Control
+control-57,,,Control for validation cohort,,200053730213,R01C01,GSM2562865,13.0,female,Control
+control-58,,,Control for validation cohort,,200053730213,R04C01,GSM2562866,13.0,male,Control
+control-59,,,Control for validation cohort,,200053730213,R03C02,GSM2562867,13.0,male,Control
+control-60,,,Control for validation cohort,,200053730213,R06C02,GSM2562868,11.5,male,Control
+control-61,,,Control for validation cohort,,200069280068,R01C01,GSM2562869,16.0,male,Control
+control-62,,,Control for validation cohort,,200069280068,R04C01,GSM2562870,16.0,male,Control
+control-63,,,Control for validation cohort,,200069280068,R03C02,GSM2562871,15.0,male,Control
+control-64,,,Control for validation cohort,,200069280068,R06C02,GSM2562872,7.0,female,Control
+control-65,,,Control for validation cohort,,200053730211,R01C01,GSM2562873,16.5,male,Control
+control-66,,,Control for validation cohort,,200053730211,R04C01,GSM2562874,17.0,male,Control
+control-67,,,Control for validation cohort,,200053730211,R01C02,GSM2562875,17.0,male,Control
+control-68,,,Control for validation cohort,,200053730211,R03C02,GSM2562876,15.5,male,Control
+control-69,,,Control for validation cohort,,200053730211,R06C02,GSM2562877,6.0,female,Control
+control-70,,,Control for validation cohort,,200053730149,R01C01,GSM2562878,13.5,male,Control
+control-71,,,Control for validation cohort,,200053730149,R03C02,GSM2562879,6.0,male,Control
+control-72,,,Control for validation cohort,,200053730149,R06C02,GSM2562880,14.0,male,Control
+control-73,,,Control for validation cohort,,200069280111,R01C01,GSM2562881,18.0,male,Control
+control-74,,,Control for validation cohort,,200069280111,R04C01,GSM2562882,,male,Control
+control-75,,,Control for validation cohort,,200069280111,R03C02,GSM2562883,16.0,female,Control
+control-76,,,Control for validation cohort,,200069280111,R06C02,GSM2562884,10.0,male,Control
+control-77,,,Control for validation cohort,,200053730181,R01C01,GSM2562885,15.0,male,Control
+control-78,,,Control for validation cohort,,200053730181,R04C01,GSM2562886,3.0,female,Control
+control-79,,,Control for validation cohort,,200053730181,R06C02,GSM2562887,6.0,male,Control
+control-80,,,Control for validation cohort,,200069280005,R01C01,GSM2562888,,male,Control
+control-81,,,Control for validation cohort,,200069280005,R04C01,GSM2562889,18.0,female,Control
+control-82,,,Control for validation cohort,,200069280005,R03C02,GSM2562890,7.0,male,Control
+control-83,,,Control for validation cohort,,200069280005,R06C02,GSM2562891,19.0,female,Control
+control-84,,,Control for validation cohort,,200069280100,R01C01,GSM2562892,14.0,male,Control
+control-85,,,Control for validation cohort,,200069280100,R04C01,GSM2562893,15.0,female,Control
+control-86,,,Control for validation cohort,,200069280100,R06C02,GSM2562894,19.0,male,Control
+control-87,,,Control for validation cohort,,200069280070,R01C01,GSM2562895,8.0,male,Control
+control-88,,,Control for validation cohort,,200069280070,R04C01,GSM2562896,15.0,female,Control
+control-89,,,Control for validation cohort,,200069280070,R05C02,GSM2562897,16.0,male,Control
+control-90,,,Control for validation cohort,,200069280030,R01C01,GSM2562898,4.0,male,Control
+control-91,,,Control for validation cohort,,200069280030,R04C01,GSM2562899,19.0,male,Control
+control-92,,,Control for validation cohort,,200069280030,R06C02,GSM2562900,18.0,male,Control
+control-93,,,Control for validation cohort,,200053730139,R01C01,GSM2562901,14.0,female,Control
+control-94,,,Control for validation cohort,,200053730139,R04C01,GSM2562902,17.0,male,Control
+control-95,,,Control for validation cohort,,200053730139,R03C02,GSM2562903,14.0,female,Control
+control-96,,,Control for validation cohort,,200053730139,R06C02,GSM2562904,13.0,male,Control
+control-97,,,Control for validation cohort,,200069280004,R01C01,GSM2562905,19.0,female,Control
+control-98,,,Control for validation cohort,,200069280004,R04C01,GSM2562906,18.0,female,Control
+control-99,,,Control for validation cohort,,200069280004,R06C02,GSM2562907,16.8,male,Control
+control-100,,,Control for validation cohort,,200069280082,R01C01,GSM2562908,17.0,male,Control
+control-101,,,Control for validation cohort,,200069280082,R04C01,GSM2562909,11.0,male,Control
+control-102,,,Control for validation cohort,,200069280082,R03C02,GSM2562910,14.0,male,Control
+control-103,,,Control for validation cohort,,200069280082,R06C02,GSM2562911,19.0,female,Control
+control-104,,,Control for validation cohort,,200069280013,R01C01,GSM2562912,14.0,female,Control
+control-105,,,Control for validation cohort,,200069280013,R04C01,GSM2562913,17.0,male,Control
+control-106,,,Control for validation cohort,,200069280013,R03C02,GSM2562914,12.0,male,Control
+control-107,,,Control for validation cohort,,200069280013,R06C02,GSM2562915,10.0,male,Control
+control-108,,,Control for validation cohort,,200069280101,R01C01,GSM2562916,19.0,male,Control
+control-109,,,Control for validation cohort,,200069280101,R04C01,GSM2562917,19.0,female,Control
+control-110,,,Control for validation cohort,,200069280101,R03C02,GSM2562918,16.0,male,Control
+control-111,,,Control for validation cohort,,200069280101,R06C02,GSM2562919,18.0,male,Control
+control-112,,,Control for validation cohort,,200069280057,R01C01,GSM2562922,13.0,female,Control
+control-113,,,Control for validation cohort,,200069280057,R04C01,GSM2562923,17.0,male,Control
+control-114,,,Control for validation cohort,,200069280057,R03C02,GSM2562924,18.0,male,Control
+control-115,,,Control for validation cohort,,200069280057,R06C02,GSM2562925,14.0,male,Control
+control-116,,,Control for validation cohort,,200069280019,R01C01,GSM2562926,19.0,female,Control
+control-117,,,Control for validation cohort,,200069280019,R04C01,GSM2562927,8.0,female,Control
+control-118,,,Control for validation cohort,,200069280019,R03C02,GSM2562928,16.0,male,Control
+control-119,,,Control for validation cohort,,200069280019,R06C02,GSM2562929,11.0,male,Control
+control-120,,,Control for validation cohort,,200053730148,R01C01,GSM2562930,14.0,male,Control
+control-121,,,Control for validation cohort,,200053730148,R04C01,GSM2562931,7.0,male,Control
+control-122,,,Control for validation cohort,,200053730148,R06C02,GSM2562932,12.0,male,Control
+control-123,,,Control for validation cohort,,200069280109,R01C01,GSM2562933,10.0,male,Control
+control-124,,,Control for validation cohort,,200069280109,R04C01,GSM2562934,11.0,male,Control
+control-125,,,Control for validation cohort,,200069280109,R06C02,GSM2562935,11.0,male,Control

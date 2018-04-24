@@ -1,0 +1,236 @@
+Group,Accession,Title,Source name,Gender,Characteristics,Sample type,Disease state,Tissue
+-,GSM2562699,CHD7-1 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,female,age (years): 4,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562700,CHD7-2 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 6,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562701,CHD7-3 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,female,age (years): 14,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562702,CHD7-4 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 12.8,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562703,CHD7-5 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 18,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562704,CHD7-6 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 24,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562705,CHD7-7 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 3,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562706,CHD7-8 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,female,age (years): 6,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562707,CHD7-9 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 9,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562708,CHD7-10 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,female,age (years): 0.02,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562709,CHD7-11 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 12,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562710,CHD7-12 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 19,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562711,CHD7-13 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 19,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562712,CHD7-14 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 4,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562713,CHD7-15 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 10.8,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562714,CHD7-16 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 7,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562715,CHD7-17 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,male,age (years): 15,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562716,CHD7-18 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,female,age (years): 10,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562717,CHD7-19 whole blood CHD7 LOF genomic DNA,whole blood genomic DNA,female,age (years): 4,CHD7 LOF discovery cohort,CHARGE,whole blood
+-,GSM2562718,CHD7-20 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 5,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562719,CHD7-21 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 3,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562720,CHD7-22 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 0.01,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562721,CHD7-23 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 0.5,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562722,CHD7-24 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 2,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562723,CHD7-25 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 13,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562724,CHD7-26 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 4,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562725,CHD7-27 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 4,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562726,CHD7-28 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 13,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562727,CHD7-29 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 6,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562728,CHD7-30 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 0.08,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562729,CHD7-31 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 5,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562730,CHD7-32 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 9,CHD7 sequence variant,CHD7 variant,whole blood
+-,GSM2562731,CHD7-33 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 50,Validation cohort,CHD7 variant,whole blood
+-,GSM2562732,CHD7-34 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562733,CHD7-35 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562734,CHD7-36 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 24,Validation cohort,CHD7 variant,whole blood
+-,GSM2562735,CHD7-37 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 38,Validation cohort,CHD7 variant,whole blood
+-,GSM2562736,CHD7-38 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 20,Validation cohort,CHD7 variant,whole blood
+-,GSM2562737,CHD7-39 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 19,Validation cohort,CHD7 variant,whole blood
+-,GSM2562738,CHD7-40 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 13,Validation cohort,CHD7 variant,whole blood
+-,GSM2562739,CHD7-41 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 8,Validation cohort,CHD7 variant,whole blood
+-,GSM2562740,CHD7-42 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 3,Validation cohort,CHD7 variant,whole blood
+-,GSM2562741,CHD7-43 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 23,Validation cohort,CHD7 variant,whole blood
+-,GSM2562742,CHD7-44 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562743,CHD7-45 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 35,Validation cohort,CHD7 variant,whole blood
+-,GSM2562744,CHD7-46 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 3,Validation cohort,CHD7 variant,whole blood
+-,GSM2562745,CHD7-47 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 31,Validation cohort,CHD7 variant,whole blood
+-,GSM2562746,CHD7-48 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 49,Validation cohort,CHD7 variant,whole blood
+-,GSM2562747,CHD7-49 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 8,Validation cohort,CHD7 variant,whole blood
+-,GSM2562748,CHD7-50 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 18,Validation cohort,CHD7 variant,whole blood
+-,GSM2562749,CHD7-51 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562750,CHD7-52 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 3,Validation cohort,CHD7 variant,whole blood
+-,GSM2562751,CHD7-53 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 18,Validation cohort,CHD7 variant,whole blood
+-,GSM2562752,CHD7-54 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 32,Validation cohort,CHD7 variant,whole blood
+-,GSM2562753,CHD7-55 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562754,CHD7-56 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 17,Validation cohort,CHD7 variant,whole blood
+-,GSM2562755,CHD7-57 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562756,CHD7-58 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 22,Validation cohort,CHD7 variant,whole blood
+-,GSM2562757,CHD7-59 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 48,Validation cohort,CHD7 variant,whole blood
+-,GSM2562758,CHD7-60 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 16,Validation cohort,CHD7 variant,whole blood
+-,GSM2562759,CHD7-61 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 1,Validation cohort,CHD7 variant,whole blood
+-,GSM2562760,CHD7-62 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 29,Validation cohort,CHD7 variant,whole blood
+-,GSM2562761,CHD7-63 whole blood CHD7 likely pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 1,Validation cohort,CHD7 variant,whole blood
+-,GSM2562762,CHD7-64 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562763,CHD7-65 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 52,Validation cohort,CHD7 variant,whole blood
+-,GSM2562764,CHD7-66 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 10,Validation cohort,CHD7 variant,whole blood
+-,GSM2562765,CHD7-67 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,male,age (years): 2,Validation cohort,CHD7 variant,whole blood
+-,GSM2562766,CHD7-68 whole blood CHD7 likely pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 7,Validation cohort,CHD7 variant,whole blood
+-,GSM2562767,CHD7-69 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 4,Validation cohort,CHD7 variant,whole blood
+-,GSM2562768,CHD7-70 whole blood CHD7 VUS genomic DNA,whole blood genomic DNA,female,age (years): 26,Validation cohort,CHD7 variant,whole blood
+-,GSM2562769,CHD7-71 whole blood CHD7 likely pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 4,Validation cohort,CHD7 variant,whole blood
+-,GSM2562770,CHD7-72 whole blood CHD7 pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 46,Validation cohort,CHD7 variant,whole blood
+-,GSM2562771,KMT2D-1 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,female,age (years): 14,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562772,KMT2D-2 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 1,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562773,KMT2D-3 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 18,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562774,KMT2D-4 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,female,age (years): 16,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562775,KMT2D-5 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 15,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562776,KMT2D-6 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 11,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562777,KMT2D-7 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 14,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562778,KMT2D-8 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 20,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562779,KMT2D-9 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 18,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562780,KMT2D-10 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 6,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562781,KMT2D-11 whole blood KMT2D LOF genomic DNA,whole blood genomic DNA,male,age (years): 16,KMT2D LOF discovery cohort,Kabuki,whole blood
+-,GSM2562782,KMT2D-12 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 7,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562783,KMT2D-13 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 5,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562784,KMT2D-14 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 15,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562785,KMT2D-15 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 14,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562786,KMT2D-16 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 17,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562787,KMT2D-17 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 9,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562788,KMT2D-18 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 16,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562789,KMT2D-19 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 8,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562790,KMT2D-20 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 10,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562791,KMT2D-21 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 6,KMT2D sequence variant,KMT2D variant,whole blood
+-,GSM2562792,KMT2D-22 whole blood KMT2D likely pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 5,Validation cohort,KMT2D variant,whole blood
+-,GSM2562793,KMT2D-23 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 3,Validation cohort,KMT2D variant,whole blood
+-,GSM2562794,KMT2D-24 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 21,Validation cohort,KMT2D variant,whole blood
+-,GSM2562795,KMT2D-25 whole blood KMT2D likely pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 34,Validation cohort,KMT2D variant,whole blood
+-,GSM2562796,KMT2D-26 whole blood KMT2D likely pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 30,Validation cohort,KMT2D variant,whole blood
+-,GSM2562797,KMT2D-27 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 40,Validation cohort,KMT2D variant,whole blood
+-,GSM2562798,KMT2D-28 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 9,Validation cohort,KMT2D variant,whole blood
+-,GSM2562799,KMT2D-29 whole blood KMT2D pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 5,Validation cohort,KMT2D variant,whole blood
+-,GSM2562800,KMT2D-30 whole blood KMT2D likely pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 6,Validation cohort,KMT2D variant,whole blood
+-,GSM2562801,KMT2D-31 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,male,age (years): 47,Validation cohort,KMT2D variant,whole blood
+-,GSM2562802,KMT2D-32 whole blood KMT2D pathogenic genomic DNA,whole blood genomic DNA,male,age (years): 51,Validation cohort,KMT2D variant,whole blood
+-,GSM2562803,KMT2D-33 whole blood KMT2D likely pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 28,Validation cohort,KMT2D variant,whole blood
+-,GSM2562804,KMT2D-34 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 25,Validation cohort,KMT2D variant,whole blood
+-,GSM2562805,KMT2D-35 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 45,Validation cohort,KMT2D variant,whole blood
+-,GSM2562806,KMT2D-36 whole blood KMT2D pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 27,Validation cohort,KMT2D variant,whole blood
+-,GSM2562807,KMT2D-37 whole blood KMT2D VUS genomic DNA,whole blood genomic DNA,female,age (years): 15,Validation cohort,KMT2D variant,whole blood
+-,GSM2562808,KDM6A-1 whole blood KDM6A pathogenic genomic DNA,whole blood genomic DNA,female,age (years): 12,Validation cohort,KDM6A variant,whole blood
+-,GSM2562809,control-1 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 11,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562810,control-2 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 4,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562811,control-3 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 6,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562812,control-4 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 5,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562813,control-5 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 16,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562814,control-6 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562815,control-7 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 12,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562816,control-8 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 6,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562817,control-9 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 7,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562818,control-10 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 7,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562819,control-11 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 9,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562820,control-12 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 6,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562821,control-13 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562822,control-14 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 11,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562823,control-15 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 4,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562824,control-16 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 6.25,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562825,control-17 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 5,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562826,control-18 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562827,control-19 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 4,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562828,control-20 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 5,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562829,control-21 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 2,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562830,control-22 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 10,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562831,control-23 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 8,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562832,control-24 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 11,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562833,control-25 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 6,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562834,control-26 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 14,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562835,control-27 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 3,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562836,control-28 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 10,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562837,control-29 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 7,Control for CHD7 LOF discovery cohort,Control,whole blood
+-,GSM2562838,control-30 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562839,control-31 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562840,control-32 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 11,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562841,control-33 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 6,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562842,control-34 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 16,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562843,control-35 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 5.5,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562844,control-36 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 7,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562845,control-37 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 7,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562846,control-38 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 8,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562847,control-39 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 9.5,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562848,control-40 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 9,Control for KMT2D LOF discovery cohort,Control,whole blood
+-,GSM2562849,control-41 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562850,control-42 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 11,Control for validation cohort,Control,whole blood
+-,GSM2562851,control-43 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 15,Control for validation cohort,Control,whole blood
+-,GSM2562852,control-44 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 12,Control for validation cohort,Control,whole blood
+-,GSM2562853,control-45 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 17,Control for validation cohort,Control,whole blood
+-,GSM2562854,control-46 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 15,Control for validation cohort,Control,whole blood
+-,GSM2562855,control-47 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 12,Control for validation cohort,Control,whole blood
+-,GSM2562856,control-48 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562857,control-49 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562858,control-50 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562859,control-51 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 6,Control for validation cohort,Control,whole blood
+-,GSM2562860,control-52 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 11,Control for validation cohort,Control,whole blood
+-,GSM2562861,control-53 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562862,control-54 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562863,control-55 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562864,control-56 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562865,control-57 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 13,Control for validation cohort,Control,whole blood
+-,GSM2562866,control-58 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13,Control for validation cohort,Control,whole blood
+-,GSM2562867,control-59 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13,Control for validation cohort,Control,whole blood
+-,GSM2562868,control-60 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 11.5,Control for validation cohort,Control,whole blood
+-,GSM2562869,control-61 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562870,control-62 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562871,control-63 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 15,Control for validation cohort,Control,whole blood
+-,GSM2562872,control-64 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 7,Control for validation cohort,Control,whole blood
+-,GSM2562873,control-65 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16.5,Control for validation cohort,Control,whole blood
+-,GSM2562874,control-66 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 17,Control for validation cohort,Control,whole blood
+-,GSM2562875,control-67 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 17,Control for validation cohort,Control,whole blood
+-,GSM2562876,control-68 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 15.5,Control for validation cohort,Control,whole blood
+-,GSM2562877,control-69 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 6,Control for validation cohort,Control,whole blood
+-,GSM2562878,control-70 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13.5,Control for validation cohort,Control,whole blood
+-,GSM2562879,control-71 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 6,Control for validation cohort,Control,whole blood
+-,GSM2562880,control-72 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562881,control-73 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562882,control-74 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): -,Control for validation cohort,Control,whole blood
+-,GSM2562883,control-75 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562884,control-76 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 10,Control for validation cohort,Control,whole blood
+-,GSM2562885,control-77 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 15,Control for validation cohort,Control,whole blood
+-,GSM2562886,control-78 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 3,Control for validation cohort,Control,whole blood
+-,GSM2562887,control-79 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 6,Control for validation cohort,Control,whole blood
+-,GSM2562888,control-80 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): -,Control for validation cohort,Control,whole blood
+-,GSM2562889,control-81 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562890,control-82 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 7,Control for validation cohort,Control,whole blood
+-,GSM2562891,control-83 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562892,control-84 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562893,control-85 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 15,Control for validation cohort,Control,whole blood
+-,GSM2562894,control-86 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562895,control-87 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 8,Control for validation cohort,Control,whole blood
+-,GSM2562896,control-88 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 15,Control for validation cohort,Control,whole blood
+-,GSM2562897,control-89 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562898,control-90 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 4,Control for validation cohort,Control,whole blood
+-,GSM2562899,control-91 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562900,control-92 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562901,control-93 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562902,control-94 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 17,Control for validation cohort,Control,whole blood
+-,GSM2562903,control-95 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562904,control-96 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 13,Control for validation cohort,Control,whole blood
+-,GSM2562905,control-97 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562906,control-98 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562907,control-99 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16.8,Control for validation cohort,Control,whole blood
+-,GSM2562908,control-100 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 17,Control for validation cohort,Control,whole blood
+-,GSM2562909,control-101 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 11,Control for validation cohort,Control,whole blood
+-,GSM2562910,control-102 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562911,control-103 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562912,control-104 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562913,control-105 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 17,Control for validation cohort,Control,whole blood
+-,GSM2562914,control-106 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 12,Control for validation cohort,Control,whole blood
+-,GSM2562915,control-107 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 10,Control for validation cohort,Control,whole blood
+-,GSM2562916,control-108 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562917,control-109 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562918,control-110 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562919,control-111 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562922,control-112 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 13,Control for validation cohort,Control,whole blood
+-,GSM2562923,control-113 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 17,Control for validation cohort,Control,whole blood
+-,GSM2562924,control-114 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 18,Control for validation cohort,Control,whole blood
+-,GSM2562925,control-115 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562926,control-116 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 19,Control for validation cohort,Control,whole blood
+-,GSM2562927,control-117 whole blood Control genomic DNA,whole blood genomic DNA,female,age (years): 8,Control for validation cohort,Control,whole blood
+-,GSM2562928,control-118 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 16,Control for validation cohort,Control,whole blood
+-,GSM2562929,control-119 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 11,Control for validation cohort,Control,whole blood
+-,GSM2562930,control-120 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 14,Control for validation cohort,Control,whole blood
+-,GSM2562931,control-121 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 7,Control for validation cohort,Control,whole blood
+-,GSM2562932,control-122 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 12,Control for validation cohort,Control,whole blood
+-,GSM2562933,control-123 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 10,Control for validation cohort,Control,whole blood
+-,GSM2562934,control-124 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 11,Control for validation cohort,Control,whole blood
+-,GSM2562935,control-125 whole blood Control genomic DNA,whole blood genomic DNA,male,age (years): 11,Control for validation cohort,Control,whole blood

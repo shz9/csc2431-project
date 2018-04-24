@@ -1,0 +1,14 @@
+[Header],,,,,,
+Investigator Name,MrNoName,,,,,
+Project Name,DNA Methylation,,,,,
+Experiment Name,Test,,,,,
+Date,17-Feb-11,,,,,
+,,,,,,
+[Data],,,,,,
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position,person,age,sex,status
+GroupA_3,H5,,GroupA,,5723646052,R02C02,id3,83,M,normal
+GroupA_2,D5,,GroupA,,5723646052,R04C01,id2,58,F,normal
+GroupB_3,C6,,GroupB,,5723646052,R05C02,id3,83,M,cancer
+GroupB_1,F7,,GroupB,,5723646053,R04C02,id1,75,F,cancer
+GroupA_1,G7,,GroupA,,5723646053,R05C02,id1,75,F,normal
+GroupB_2,H7,,GroupB,,5723646053,R06C02,id2,58,F,cancer
