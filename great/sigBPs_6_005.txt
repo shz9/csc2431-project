@@ -1,0 +1,301 @@
+Biological Process	FDRq
+cell-cell signaling involved in mammary gland development	1.233315e-29
+lung goblet cell differentiation	9.348827e-26
+bronchiole development	7.416172e-22
+intestinal epithelial cell maturation	1.898932e-21
+columnar/cuboidal epithelial cell maturation	1.128773e-19
+lobar bronchus development	5.826555e-17
+embryonic organ morphogenesis	5.256272e-17
+intestinal epithelial cell development	6.775020e-16
+trachea cartilage morphogenesis	2.498981e-15
+anterior/posterior pattern specification	1.004729e-14
+embryonic organ development	9.135092e-15
+embryonic skeletal system development	8.774750e-15
+trachea cartilage development	9.167380e-15
+positive regulation of receptor biosynthetic process	1.143977e-14
+negative regulation of erythrocyte differentiation	4.179797e-14
+respiratory system process	1.120357e-13
+mesenchymal-epithelial cell signaling	1.145991e-13
+embryonic skeletal system morphogenesis	1.699738e-13
+bronchus development	2.815183e-13
+regionalization	1.245021e-12
+cartilage development	1.163113e-11
+embryonic morphogenesis	1.321108e-11
+connective tissue development	1.559199e-11
+skeletal system development	1.709763e-11
+organ morphogenesis	2.508441e-11
+cartilage morphogenesis	1.021075e-10
+rhombomere 3 development	1.154467e-10
+pattern specification process	1.867929e-10
+embryo development	1.966265e-10
+thyroid gland development	2.007817e-10
+columnar/cuboidal epithelial cell development	7.002539e-10
+intestinal epithelial cell differentiation	7.668862e-10
+regulation of receptor biosynthetic process	9.646541e-10
+regulation of mammary gland epithelial cell proliferation	3.781291e-9
+lung epithelial cell differentiation	5.599542e-9
+epithelial cell maturation	6.025956e-9
+rhombomere 3 morphogenesis	1.126079e-8
+lung cell differentiation	2.115616e-8
+mammary gland epithelial cell differentiation	4.986289e-8
+lung-associated mesenchyme development	5.058404e-8
+negative regulation of myeloid cell differentiation	1.297759e-7
+trachea morphogenesis	1.421105e-7
+brain segmentation	1.973776e-7
+skeletal system morphogenesis	2.103646e-7
+motor neuron axon guidance	2.616851e-7
+epithelial tube branching involved in lung morphogenesis	4.701799e-7
+organ development	4.708600e-7
+embryonic viscerocranium morphogenesis	3.117227e-6
+lung epithelium development	3.669400e-6
+trachea development	4.772997e-6
+depyrimidination	5.742813e-6
+lung alveolus development	5.722286e-6
+lipoxin B4 biosynthetic process	5.991947e-6
+leukotriene A4 metabolic process	5.991947e-6
+cell-cell signaling	6.108013e-6
+regulation of erythrocyte differentiation	6.423547e-6
+pyrimidine deoxyribonucleotide catabolic process	1.009275e-5
+lung morphogenesis	1.099220e-5
+anatomical structure morphogenesis	1.477414e-5
+segment specification	1.477914e-5
+embryo development ending in birth or egg hatching	1.700436e-5
+developmental maturation	2.167588e-5
+positive regulation of myeloid cell differentiation	2.359294e-5
+pyrimidine nucleotide catabolic process	2.639734e-5
+chordate embryonic development	2.941921e-5
+respiratory gaseous exchange	3.790832e-5
+anatomical structure arrangement	5.898122e-5
+regulation of myeloid cell differentiation	6.144318e-5
+single-multicellular organism process	7.113003e-5
+base-excision repair, AP site formation	7.181269e-5
+mesenchyme development	7.942733e-5
+negative regulation of glutamine transport	1.363025e-4
+cellular response to L-ascorbic acid	1.363025e-4
+columnar/cuboidal epithelial cell differentiation	1.408751e-4
+mammary gland epithelium development	1.400633e-4
+regulation of glucagon secretion	1.562247e-4
+regulation of cell differentiation	1.572682e-4
+middle ear morphogenesis	1.885514e-4
+single-organism developmental process	1.907118e-4
+regulation of lipoprotein lipid oxidation	2.832195e-4
+negative regulation of glucagon secretion	2.825478e-4
+positive regulation of luteinizing hormone secretion	2.948108e-4
+induction of negative chemotaxis	2.929044e-4
+corticospinal neuron axon guidance through spinal cord	2.929044e-4
+negative regulation of epidermis development	3.099559e-4
+pyrimidine deoxyribonucleotide metabolic process	3.472576e-4
+rhombomere development	3.861486e-4
+mammary gland alveolus development	3.832047e-4
+regulation of developmental process	4.349249e-4
+negative regulation of neutrophil chemotaxis	4.477360e-4
+negative regulation of lamellipodium assembly	4.795889e-4
+multicellular organismal process	4.905640e-4
+negative regulation of smooth muscle cell chemotaxis	5.076487e-4
+digestive tract development	6.503665e-4
+hormone secretion	6.480898e-4
+positive regulation of apoptotic process	7.091908e-4
+lipoxin A4 biosynthetic process	7.091985e-4
+negative regulation of mononuclear cell migration	8.101908e-4
+regulation of neuron differentiation	8.123504e-4
+deoxyribonucleotide catabolic process	8.087496e-4
+negative regulation of cell differentiation	8.109126e-4
+deoxyribose phosphate catabolic process	1.059018e-3
+positive regulation of programmed cell death	1.054457e-3
+regulation of multicellular organismal development	1.048356e-3
+corticospinal neuron axon guidance	1.064779e-3
+mating behavior	1.188651e-3
+positive regulation of hepatic stellate cell activation	1.206221e-3
+regulation of smooth muscle cell chemotaxis	1.258196e-3
+cranial nerve structural organization	1.294046e-3
+system development	1.296174e-3
+multicellular organismal development	1.306480e-3
+negative regulation of developmental process	1.313271e-3
+tube morphogenesis	1.311570e-3
+hormone transport	1.301837e-3
+regulation of anatomical structure morphogenesis	1.336010e-3
+multicellular organism growth	1.416136e-3
+cerebellum structural organization	1.490103e-3
+regulation of epithelial cell proliferation	1.696342e-3
+negative regulation of epidermal cell differentiation	1.726032e-3
+negative regulation of angiogenesis	1.717693e-3
+branching morphogenesis of an epithelial tube	1.894095e-3
+regulation of vasculature development	2.492480e-3
+negative regulation of homotypic cell-cell adhesion	2.506245e-3
+glycerol biosynthetic process	2.553964e-3
+positive regulation of follicle-stimulating hormone secretion	2.578091e-3
+regulation of epidermis development	2.644288e-3
+facial nerve structural organization	2.707852e-3
+chemorepulsion involved in postnatal olfactory bulb interneuron migration	2.694987e-3
+ear development	2.728704e-3
+regulation of epidermal cell differentiation	2.722506e-3
+gland development	2.733394e-3
+leptin-mediated signaling pathway	2.713659e-3
+negative regulation of retinal ganglion cell axon guidance	2.734690e-3
+positive regulation of gonadotropin secretion	3.172051e-3
+Golgi localization	3.199818e-3
+positive regulation of cell death	3.243873e-3
+morphogenesis of a branching epithelium	3.301916e-3
+cerebral cortex tangential migration	3.294739e-3
+negative regulation of JNK cascade	3.367186e-3
+mammary gland development	3.516410e-3
+negative regulation of vasoconstriction	3.759540e-3
+rhombomere 5 development	3.876530e-3
+response to L-ascorbic acid	4.097563e-3
+digestive system development	4.072071e-3
+pallium development	4.053730e-3
+nucleobase-containing compound biosynthetic process	4.329008e-3
+positive regulation of mitochondrial depolarization	4.343330e-3
+tissue development	4.449419e-3
+positive regulation of STAT protein import into nucleus	4.608030e-3
+bone mineralization involved in bone maturation	5.278331e-3
+system process	5.286580e-3
+segmentation	5.463699e-3
+response to dietary excess	5.489218e-3
+heterocycle biosynthetic process	5.508960e-3
+aromatic compound biosynthetic process	6.019042e-3
+regulation of follicle-stimulating hormone secretion	6.002345e-3
+morphogenesis of a branching structure	6.101407e-3
+abducens nerve formation	6.203514e-3
+optokinetic behavior	6.203514e-3
+regulation of homeostatic process	6.140023e-3
+cell maturation	6.141397e-3
+somite specification	6.162010e-3
+endocrine system development	6.272431e-3
+mesodermal cell fate specification	6.264082e-3
+regulation of intestinal cholesterol absorption	6.312306e-3
+anatomical structure development	6.406808e-3
+organic cyclic compound biosynthetic process	6.461379e-3
+endocrine process	6.451690e-3
+proximal tubule development	6.422558e-3
+RNA biosynthetic process	6.446411e-3
+negative regulation of action potential	6.875454e-3
+mesodermal cell differentiation	6.840877e-3
+regulation of gene expression	6.934387e-3
+positive regulation of cell differentiation	6.932448e-3
+regulation of lipoprotein oxidation	7.015877e-3
+establishment of skin barrier	7.218459e-3
+negative regulation of monocyte chemotaxis	7.783911e-3
+regulation of luteinizing hormone secretion	7.839836e-3
+ear morphogenesis	7.891532e-3
+regulation of multicellular organismal process	8.015606e-3
+negative regulation of auditory receptor cell differentiation	8.558770e-3
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	8.516745e-3
+rhythmic process	8.476789e-3
+reproductive behavior	8.666306e-3
+negative regulation of meiosis	8.726536e-3
+Notch signaling pathway	9.072871e-3
+transcription, DNA-dependent	9.200247e-3
+cellular nitrogen compound biosynthetic process	9.306805e-3
+regulation of angiogenesis	9.379103e-3
+RNA repair	9.550765e-3
+embryonic cranial skeleton morphogenesis	9.979443e-3
+regulation of auditory receptor cell differentiation	1.000149e-2
+endocrine hormone secretion	1.010434e-2
+regulation of water loss via skin	1.007423e-2
+epithelial tube morphogenesis	1.067530e-2
+regulation of cell development	1.087248e-2
+superoxide anion generation	1.173257e-2
+sensory perception of sound	1.173757e-2
+chemosensory behavior	1.235181e-2
+negative regulation of smooth muscle cell migration	1.238030e-2
+regulation of macromolecule metabolic process	1.275670e-2
+cranial nerve development	1.273390e-2
+negative regulation of inner ear receptor cell differentiation	1.278656e-2
+habituation	1.286786e-2
+determination of affect	1.286786e-2
+tissue morphogenesis	1.281885e-2
+regulation of cell proliferation	1.299919e-2
+positive regulation of gene expression	1.316599e-2
+regulation of white fat cell proliferation	1.348334e-2
+mesoderm development	1.353467e-2
+nerve development	1.357200e-2
+cranial nerve morphogenesis	1.361787e-2
+nonassociative learning	1.359564e-2
+apoptotic process involved in luteolysis	1.400330e-2
+developmental process	1.396081e-2
+regulation of inner ear receptor cell differentiation	1.402824e-2
+positive regulation of endothelial cell differentiation	1.526397e-2
+mesodermal cell fate commitment	1.630733e-2
+dorsal/ventral axon guidance	1.671664e-2
+negative regulation of stress-activated MAPK cascade	1.685801e-2
+positive regulation of developmental process	1.694078e-2
+forebrain cell migration	1.738730e-2
+negative regulation of D-amino-acid oxidase activity	1.767230e-2
+tube development	1.794027e-2
+oxidative single-stranded RNA demethylation	1.787086e-2
+pyrimidine nucleotide metabolic process	1.891574e-2
+regulation of fat cell proliferation	1.906308e-2
+2'-deoxyribonucleotide metabolic process	1.981908e-2
+tyrosine phosphorylation of STAT protein	1.985813e-2
+hepoxilin biosynthetic process	2.052037e-2
+cellular response to carbohydrate stimulus	2.060291e-2
+regulation of RNA metabolic process	2.081219e-2
+response to amine stimulus	2.103086e-2
+regulation of cell morphogenesis	2.104017e-2
+gene expression	2.127003e-2
+mesenchymal cell apoptotic process	2.137447e-2
+left/right pattern formation	2.143110e-2
+maintenance of Golgi location	2.248450e-2
+regulation of transcription, DNA-dependent	2.317831e-2
+sensory organ development	2.390335e-2
+negative regulation of muscle cell apoptotic process	2.449184e-2
+cerebral cortex cell migration	2.578010e-2
+transcription initiation from mitochondrial promoter	2.613844e-2
+deoxyribose phosphate metabolic process	2.641466e-2
+regulation of neurogenesis	2.664054e-2
+luteolysis	2.661933e-2
+RNA metabolic process	2.672287e-2
+embryonic skeletal joint development	2.665984e-2
+telencephalon cell migration	2.662779e-2
+dihydrofolate metabolic process	2.682457e-2
+oxidative single-stranded DNA demethylation	2.690683e-2
+regulation of RNA biosynthetic process	2.693302e-2
+regulation of metabolic process	2.798739e-2
+semicircular canal formation	2.944010e-2
+Roundabout signaling pathway	2.957564e-2
+regulation of homotypic cell-cell adhesion	2.955719e-2
+regulation of amine transport	3.048704e-2
+endosome transport via multivesicular body sorting pathway	3.055265e-2
+response to cortisol stimulus	3.077309e-2
+negative regulation of mesenchymal cell apoptotic process	3.114745e-2
+sensory perception of mechanical stimulus	3.107679e-2
+multicellular organismal water homeostasis	3.132094e-2
+embryonic skeletal joint morphogenesis	3.162690e-2
+deoxyribonucleotide metabolic process	3.196327e-2
+regulation of apoptotic process	3.194067e-2
+cellular carbohydrate biosynthetic process	3.197228e-2
+negative regulation of appetite	3.186297e-2
+left/right axis specification	3.221392e-2
+response to amphetamine	3.284313e-2
+negative regulation of leukocyte chemotaxis	3.290108e-2
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration	3.325613e-2
+regulation of programmed cell death	3.321195e-2
+positive regulation of fibrinolysis	3.537443e-2
+soft palate development	3.570184e-2
+development of primary female sexual characteristics	3.600503e-2
+regulation of epidermal growth factor-activated receptor activity	3.590290e-2
+regulation of neutrophil chemotaxis	3.581988e-2
+regulation of cell death	3.663291e-2
+regulation of nervous system development	3.667429e-2
+regulation of cellular metabolic process	3.720071e-2
+smooth endoplasmic reticulum calcium ion homeostasis	3.767621e-2
+telencephalon development	3.948282e-2
+limbic system development	4.014748e-2
+negative regulation of amine transport	4.031362e-2
+adult behavior	4.073974e-2
+tangential migration from the subventricular zone to the olfactory bulb	4.129962e-2
+cellular macromolecule biosynthetic process	4.297184e-2
+JUN phosphorylation	4.311155e-2
+synaptic growth at neuromuscular junction	4.312782e-2
+regulation of nucleobase-containing compound metabolic process	4.354769e-2
+positive regulation of neuron differentiation	4.347173e-2
+negative regulation of cell projection organization	4.362172e-2
+semicircular canal development	4.378240e-2
+outer ear morphogenesis	4.509441e-2
+negative regulation of chemokine-mediated signaling pathway	4.530687e-2
+regulation of Notch signaling pathway	4.533912e-2
+rhombomere 5 formation	4.537333e-2
+rhombomere 3 formation	4.537333e-2
+regulation of cellular macromolecule biosynthetic process	4.902387e-2
+cannabinoid signaling pathway	4.900341e-2
